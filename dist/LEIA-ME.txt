@@ -1,0 +1,16 @@
+Jogador 1
+--------------------
+Movimentar - Setas 
+Tiro = Espaço
+
+Jogador 2
+--------------------
+Esquerda = A
+Direita = D
+Cima = E
+Baixo = S
+Tiro = E
+
+Objetivo
+--------------------
+Derrotar seus oito inimigos em parceria.
